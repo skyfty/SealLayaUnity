@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: 400846fb46ee9a34db2f39a2bf4fee00
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 10_00
+    100002: 10_01
+    100004: 10_02
+    100006: 10_03
+    100008: 10_04
+    100010: 10_05
+    100012: 10_06
+    100014: 10_07
+    100016: 10_08
+    100018: 10_09
+    100020: 10_10
+    100022: 10_11
+    100024: 10_12
+    100026: 10_13
+    100028: 10_14
+    100030: 10_15
+    100032: 10_16
+    100034: //RootNode
+    100036: 11_00
+    100038: 11_01
+    100040: 11_02
+    100042: 11_03
+    100044: 11_04
+    100046: 11_05
+    100048: 11_06
+    100050: 11_07
+    100052: 11_08
+    100054: 11_09
+    100056: 11_10
+    100058: 11_11
+    100060: 11_12
+    100062: 11_13
+    100064: 11_14
+    100066: 11_15
+    100068: 11_16
+    400000: 10_00
+    400002: 10_01
+    400004: 10_02
+    400006: 10_03
+    400008: 10_04
+    400010: 10_05
+    400012: 10_06
+    400014: 10_07
+    400016: 10_08
+    400018: 10_09
+    400020: 10_10
+    400022: 10_11
+    400024: 10_12
+    400026: 10_13
+    400028: 10_14
+    400030: 10_15
+    400032: 10_16
+    400034: //RootNode
+    400036: 11_00
+    400038: 11_01
+    400040: 11_02
+    400042: 11_03
+    400044: 11_04
+    400046: 11_05
+    400048: 11_06
+    400050: 11_07
+    400052: 11_08
+    400054: 11_09
+    400056: 11_10
+    400058: 11_11
+    400060: 11_12
+    400062: 11_13
+    400064: 11_14
+    400066: 11_15
+    400068: 11_16
+    2100000: 03 - Default
+    2100002: 04 - Default
+    2100004: 01 - Default
+    2100006: 02 - Default
+    2300000: 10_00
+    2300002: 10_01
+    2300004: 10_02
+    2300006: 10_03
+    2300008: 10_04
+    2300010: 10_05
+    2300012: 10_06
+    2300014: 10_07
+    2300016: 10_08
+    2300018: 10_09
+    2300020: 10_10
+    2300022: 10_11
+    2300024: 10_12
+    2300026: 10_13
+    2300028: 10_14
+    2300030: 10_15
+    2300032: 10_16
+    2300034: 11_00
+    2300036: 11_01
+    2300038: 11_02
+    2300040: 11_03
+    2300042: 11_04
+    2300044: 11_05
+    2300046: 11_06
+    2300048: 11_07
+    2300050: 11_08
+    2300052: 11_09
+    2300054: 11_10
+    2300056: 11_11
+    2300058: 11_12
+    2300060: 11_13
+    2300062: 11_14
+    2300064: 11_15
+    2300066: 11_16
+    3300000: 10_00
+    3300002: 10_01
+    3300004: 10_02
+    3300006: 10_03
+    3300008: 10_04
+    3300010: 10_05
+    3300012: 10_06
+    3300014: 10_07
+    3300016: 10_08
+    3300018: 10_09
+    3300020: 10_10
+    3300022: 10_11
+    3300024: 10_12
+    3300026: 10_13
+    3300028: 10_14
+    3300030: 10_15
+    3300032: 10_16
+    3300034: 11_00
+    3300036: 11_01
+    3300038: 11_02
+    3300040: 11_03
+    3300042: 11_04
+    3300044: 11_05
+    3300046: 11_06
+    3300048: 11_07
+    3300050: 11_08
+    3300052: 11_09
+    3300054: 11_10
+    3300056: 11_11
+    3300058: 11_12
+    3300060: 11_13
+    3300062: 11_14
+    3300064: 11_15
+    3300066: 11_16
+    4300000: 10_01
+    4300002: 10_05
+    4300004: 10_06
+    4300006: 10_02
+    4300008: 10_16
+    4300010: 10_00
+    4300012: 10_07
+    4300014: 10_03
+    4300016: 10_08
+    4300018: 10_09
+    4300020: 10_04
+    4300022: 10_10
+    4300024: 10_11
+    4300026: 10_12
+    4300028: 10_13
+    4300030: 10_14
+    4300032: 10_15
+    4300034: 11_01
+    4300036: 11_05
+    4300038: 11_06
+    4300040: 11_02
+    4300042: 11_16
+    4300044: 11_00
+    4300046: 11_07
+    4300048: 11_03
+    4300050: 11_08
+    4300052: 11_09
+    4300054: 11_04
+    4300056: 11_10
+    4300058: 11_11
+    4300060: 11_12
+    4300062: 11_13
+    4300064: 11_14
+    4300066: 11_15
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 7e851ac0e1607b943a93d5b1dd7cdd97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 869e1f6c2b0632d48a29fa7d0c664f9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 39e3dc735ed19ab41b642ef0ac5cd451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 - Default
+    second: {fileID: 2100000, guid: 9affd09966877c442a5bf3c16c5907ae, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

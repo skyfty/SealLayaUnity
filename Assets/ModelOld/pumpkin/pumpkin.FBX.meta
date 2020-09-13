@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: b3da86a777f396a4f91f572512229bc6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 9_00
+    100002: 9_01
+    100004: 9_02
+    100006: 9_03
+    100008: 9_04
+    100010: 9_05
+    100012: 9_06
+    100014: 9_07
+    100016: 9_08
+    100018: 9_09
+    100020: 9_10
+    100022: 9_11
+    100024: 9_12
+    100026: 9_13
+    100028: 9_14
+    100030: 9_15
+    100032: 9_16
+    100034: 9_17
+    100036: 9_18
+    100038: //RootNode
+    400000: 9_00
+    400002: 9_01
+    400004: 9_02
+    400006: 9_03
+    400008: 9_04
+    400010: 9_05
+    400012: 9_06
+    400014: 9_07
+    400016: 9_08
+    400018: 9_09
+    400020: 9_10
+    400022: 9_11
+    400024: 9_12
+    400026: 9_13
+    400028: 9_14
+    400030: 9_15
+    400032: 9_16
+    400034: 9_17
+    400036: 9_18
+    400038: //RootNode
+    2100000: 04 - Default
+    2100002: 03 - Default
+    2100004: pumpkin_default
+    2100006: 02 - Default
+    2300000: 9_00
+    2300002: 9_01
+    2300004: 9_02
+    2300006: 9_03
+    2300008: 9_04
+    2300010: 9_05
+    2300012: 9_06
+    2300014: 9_07
+    2300016: 9_09
+    2300018: 9_10
+    2300020: 9_11
+    2300022: 9_12
+    2300024: 9_13
+    2300026: 9_14
+    2300028: 9_15
+    2300030: 9_16
+    2300032: 9_17
+    2300034: 9_18
+    2300036: 9_08
+    3300000: 9_00
+    3300002: 9_01
+    3300004: 9_02
+    3300006: 9_03
+    3300008: 9_04
+    3300010: 9_05
+    3300012: 9_06
+    3300014: 9_07
+    3300016: 9_09
+    3300018: 9_10
+    3300020: 9_11
+    3300022: 9_12
+    3300024: 9_13
+    3300026: 9_14
+    3300028: 9_15
+    3300030: 9_16
+    3300032: 9_17
+    3300034: 9_18
+    3300036: 9_08
+    4300000: 9_18
+    4300002: 9_03
+    4300004: 9_04
+    4300006: 9_05
+    4300008: 9_06
+    4300010: 9_07
+    4300012: 9_09
+    4300014: 9_10
+    4300016: 9_01
+    4300018: 9_11
+    4300020: 9_02
+    4300022: 9_12
+    4300024: 9_00
+    4300026: 9_13
+    4300028: 9_17
+    4300030: 9_15
+    4300032: 9_16
+    4300034: 9_14
+    4300036: 9_08
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: e94aa075734bc744399f57866e26a100, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 62865313221a5a846bc7d014ae750175, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 - Default
+    second: {fileID: 2100000, guid: 657d6bc5642f7b7409f131666a9afe6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pumpkin_default
+    second: {fileID: 2100000, guid: 6e398b6e67ed5cf42a72f7c7c620f139, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
